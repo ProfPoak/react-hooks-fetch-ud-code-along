@@ -1,39 +1,33 @@
 {
   "items": [
     {
-      "id": "1",
+      "id": "6",
+      "name": "Cookies",
+      "category": "Dessert",
+      "isInCart": false
+    },
+    {
+      "id": "7802",
       "name": "Yogurt",
       "category": "Dairy",
       "isInCart": false
     },
     {
-      "id": "2",
-      "name": "Pomegranate",
-      "category": "Produce",
-      "isInCart": false
-    },
-    {
-      "id": "3",
+      "id": "4ff7",
       "name": "Lettuce",
       "category": "Produce",
       "isInCart": false
     },
     {
-      "id": "4",
+      "id": "6397",
+      "name": "Pomegranet",
+      "category": "Produce",
+      "isInCart": false
+    },
+    {
+      "id": "8640",
       "name": "String Cheese",
       "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": "5",
-      "name": "Swiss Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": "6",
-      "name": "Cookies",
-      "category": "Dessert",
       "isInCart": false
     }
   ]
